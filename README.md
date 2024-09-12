@@ -1,3 +1,3 @@
 # TurkStudentCo-Data-Science-Bootcamp
 
-Ödev ve gereksinimler için açılmış bir repo.
+Bootcamp için verilen görevlerin yerine getirilmesi adına açılmış repo.
